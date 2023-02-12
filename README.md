@@ -10,4 +10,6 @@
 - Always wrap at word boundaries if possible, only break a word if it is longer than $length characters
 
 # Output
+http://localhost/wrap/?string=hello%20world%20how%20are%20you%20today%20abcdefghijklmnopqrstuvwxyz&length=10
+
 ![alt output](https://github.com/jericrealubit/wrap/blob/main/output.png?raw=true)
