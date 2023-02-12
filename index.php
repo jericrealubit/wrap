@@ -24,11 +24,6 @@ function wrap($string, $length) {
     $error = true;
   }
 
-  if (!is_string($string)){
-    echo "<br>NOTICE: First argument must be of type 'string'";
-    $error = true;
-  }
-
   if (!is_numeric($length)) {
     echo "<br>NOTICE: Second argument must be of type 'numeric'";
     $error = true;
