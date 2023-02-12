@@ -1,8 +1,5 @@
 <?php
 
-// var_dump($_REQUEST);
-
-
 $str = $_REQUEST['string'];
 $len = $_REQUEST['length'];
 
