@@ -10,3 +10,4 @@
 - Always wrap at word boundaries if possible, only break a word if it is longer than $length characters
 
 # Output
+![alt output](https://github.com/jericrealubit/wrap/blob/main/output.png?raw=true)
